@@ -1,0 +1,24 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>I love you ❤️</title>
+    <style>
+        body {
+            background-color: pink;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial;
+        }
+        h1 {
+            font-size: 60px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>I love you ❤️</h1>
+</body>
+</html>
