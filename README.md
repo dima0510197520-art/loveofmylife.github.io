@@ -1,2 +1,33 @@
 # loveofmylife.github.io
 it is about her
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Für dich ❤️</title>
+    <style>
+        body {
+            background-color: #ffccd5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 60px;
+            color: #d00000;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+    <h1>Ich liebe dich ❤️</h1>
+</body>
+</html>
